@@ -1,0 +1,54 @@
+[
+    {
+        "id": 0,
+        "name": "ROBOBO",
+        "title": "Angry Golem",
+        "xp": 400,
+        "treasure": "sword"   
+    },
+    {
+        "id": 1,
+        "name": "GORGONA",
+        "title": "Queen of Medusia",
+        "xp": 500,
+        "treasure": "gold"   
+    },    {
+        "id": 2,
+        "name": "SEDUCIA",
+        "title": "Sorceress of Sexiness",
+        "xp": 600,
+        "treasure": "book"   
+    },    {
+        "id": 3,
+        "name": "CEREBELLUS",
+        "title": "Father Brain",
+        "xp": 650,
+        "treasure": "book"   
+    },    {
+        "id": 4,
+        "name": "XYZAX",
+        "title": "Progenitor Lich",
+        "xp": 750,
+        "treasure": "relic"   
+    },    {
+        "id": 5,
+        "name": "KING CROAK",
+        "title": "Sultan of the Sewers",
+        "xp": 800,
+        "treasure": "sword"   
+    },
+    {
+        "id": 6,
+        "name": "CLEOPATRA",
+        "title": "Mother of Mummies",
+        "xp": 850,
+        "treasure": "gold"   
+    },
+    {
+        "id": 7,
+        "name": "DRACULORD",
+        "title": "Hypnotic Vampire",
+        "xp": 900,
+        "treasure": "relic"   
+    }
+]
